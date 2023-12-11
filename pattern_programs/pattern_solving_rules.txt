@@ -1,0 +1,9 @@
+rules of pattern algos
+
+1)outerloop->count the no.of lines
+
+2)inner loop->focus on columns and connect them to rows
+
+3)print them inside inner for loops
+
+4)optional->symmetry
